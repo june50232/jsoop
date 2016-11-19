@@ -5,6 +5,7 @@
 
 ```
 git clone https://github.com/tooto1985/jsoop.git
+```
 
 課程表  
 ![image](https://github.com/june50232/jsoop/raw/master/images/class-guideline.png)
@@ -14,4 +15,3 @@ git clone https://github.com/tooto1985/jsoop.git
 http://www.xmind.net/m/ecaD
 
 
-```
