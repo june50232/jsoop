@@ -7,3 +7,10 @@ function A() {
 A.prototype.show = function() {
     console.log(this.abc);
 };
+
+function B() {
+    A.call(this);
+}
+
+var obj = new B();
+console.log(obj.abc);
