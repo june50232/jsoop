@@ -7,3 +7,8 @@ Array.prototype.sum = function() {
     }
     return output;
 };
+ary1.sum = function() {
+    return "nothing";
+};
+console.log(ary1.sum());
+console.log(ary2.sum());
