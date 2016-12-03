@@ -16,6 +16,10 @@ http://www.xmind.net/m/ecaD
 ![image](https://github.com/june50232/jsoop/raw/master/images/mindmap-1126.png)
 http://www.xmind.net/m/MePP
 
+#12/02 上課筆記
+![image](https://github.com/june50232/jsoop/raw/master/images/mindmap-1202.png)
+http://www.xmind.net/m/BsDY
+
 #課程大綱
 ![image](https://github.com/june50232/jsoop/raw/master/images/class-guideline.png)
 
