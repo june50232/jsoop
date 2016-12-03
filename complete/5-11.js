@@ -55,6 +55,9 @@ IntegerRangePoint.prototype.write = function(x,y) {
     y = Math.round(y);
     this.constructor.uber.write.apply(this,arguments);
 };
+
 var irp = new IntegerRangePoint(0,10);
+
 irp.write(9.1,7.8);
+
 console.log(irp.read()); //{x: 9, y:8}
